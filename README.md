@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## sss_xks 的主页
+
+(链接)[https://sssxks.github.io/sssxks/]
 
 You can use the [editor on GitHub](https://github.com/sssxks/sssxks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
